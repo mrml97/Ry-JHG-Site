@@ -2,6 +2,9 @@
 	<html>
 		<h1>=style.css"color:red" Ryan's Site <title>Ryan's Site</title>
 		</h1>
+		<body> {
+    background-image: url("file:///C:/Users/ryan/Downloads/jiraiya.jpg");
+    } </body>
 		<body> Im broadening my abilities to help me understand more about Code. </body>
 		</html>
 		
